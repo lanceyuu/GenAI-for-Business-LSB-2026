@@ -10,7 +10,7 @@ GenAI related articles https://notebooklm.google.com/notebook/b8abc982-16f0-4eb1
 GenAI related industrial reports https://notebooklm.google.com/notebook/5828e8c4-0127-4a8f-a7b7-50efdc2a5a4a  
 GenAI related academic papers https://notebooklm.google.com/notebook/4f7eb31d-911e-408e-89cd-a4c7dccad245  
 
-Recommended reading list
+Recommended reading list  
 • Oguz A. Acar and Pedro Amorim (2025), 4 Widespread GenAI Assumptions to Question, California Management Review Insights.  
 • Tobias Straube, Olaf J. Groth, and Jöran Altenberg (2025), AI Initiatives Don’t Fail - Organizations Do: Why Companies Need AI Experimentation Sandboxes and Pathways, California Management Review Insights.  
 • Brian R. Spisak and Gary Marcus (2025), Cutting Through the AI Hype: The Facts Leaders Need to Know About GenAI Adoption and Return on Investment, California Management Review Insights.  
