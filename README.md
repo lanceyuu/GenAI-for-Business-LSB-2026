@@ -40,8 +40,8 @@ Recommended reading list
 • Michael Wade, Konstantinos Trantopoulos, Mark Navas, and Anders Romare (2025), How to Scale GenAI in the Workplace, MIT Sloan Management Review.  
 • Michael Schrage and David Kiron (2025), Philosophy Eats AI, MIT Sloan Management Review.  
 • Ethan Mollick (2025), Reinventing the Organization for GenAI and LLMs, MIT Sloan Management Review.  
-• Sam Ransbotham, David Kiron, Shervin Khodabandeh, Sesh Iyer, and Amartya Das (2025), The Emerging Agentic Enterprise: How Leaders Must Navigate a New Age of AI, MIT Sloan Management Review.  
+• Sam Ransbotham, David Kiron, Shervin Khodabandeh, Sesh Iyer, and Amartya Das (2025), The Emerging Agentic Enterprise: How Leaders Must Navigate a New Age of AI, MIT Sloan Management Review.    
 • Edward Anderson, Geoffrey Parker, and Burcu Tan (2025), The Hidden Costs of Coding With Generative AI, MIT Sloan Management Review.  
-• Christian Stadler and Martin Reeves (2024), Three Lessons From Chatting About Strategy With ChatGPT, MIT Sloan Management Review.
-• Paul Baier and John J. Sviokla (2025), Turbocharging Organizational Learning With GenAI, MIT Sloan Management Review.
+• Christian Stadler and Martin Reeves (2024), Three Lessons From Chatting About Strategy With ChatGPT, MIT Sloan Management Review.  
+• Paul Baier and John J. Sviokla (2025), Turbocharging Organizational Learning With GenAI, MIT Sloan Management Review.  
 • Faisal Hoque, Thomas H. Davenport, and Erik Nelson (2025), Why AI Demands a New Breed of Leaders, MIT Sloan Management Review.
