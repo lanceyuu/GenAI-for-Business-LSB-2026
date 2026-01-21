@@ -1,0 +1,21 @@
+Key Principles:
+Be specific and concrete
+State desired output format clearly
+Provide relevant context
+Break complex tasks into steps
+
+
+Multi-Step Prompting: Include context & be specific: 
+
+You can instruct the LLM to “act as a data analyst” and request R/Python code
+Clearly describe your data and task in the prompt in detail (e.g., dataset name, variable names, which analysis) – generic questions get generic answers
+Ask for clarification of the code and learn together with GenAI; Build on previous responses and ask for follow-up adjustments (e.g., change the label size)
+
+Pro Tip: Save effective prompts as templates for similar future analyses
+
+Prompt
+1. State the role and the goal: Prompt the model to act like a data analyst and outline the marketing analytics task (e.g., "cluster customers by purchase behavior" or "calculate Customer Lifetime Value") with relevant details.
+2. Provide detailed information about the data: Describe the dataset: "My data frame is called df and has columns: sales (numeric), advertising_spend (numeric), and region (factor)."
+3. Specify the method & ask for code: Mention the analysis technique or model (like k-means clustering or a CLV formula) and explicitly request an R script solving the task.
+4. Set format and clarity: For example, prompt the model to output well-commented R code or an RMarkdown-style answer.
+5. Other requests: Preferred library, with or without detailed explanation for every line of code...
