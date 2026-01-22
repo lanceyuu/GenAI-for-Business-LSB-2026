@@ -1,3 +1,5 @@
+[https://survey.zohopublic.com/zs/lYDBu7](https://survey.zohopublic.com/zs/lYDBu7)
+
 This is the page for the course: GenAI for Business.
 The slide will be uploaded shortly after each day.
 Share your work in Padlet: [https://padlet.com/binbs/genai4biz](https://padlet.com/binbs/GenAI4iz)  
